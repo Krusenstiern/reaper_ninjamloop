@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{bfc2e2b3-6e8e-42fe-a9f2-457bd5d099af}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Source Files\wdl">
+      <UniqueIdentifier>{f43b8b7d-82e5-4961-8a54-301c40bf61a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{51a72b95-7a49-4505-afb2-c7585905a819}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{444caeaa-76f8-473f-b078-5889675c21ff}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\WDL\jnetlib\asyncdns.cpp">
+      <Filter>Source Files\wdl</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\WDL\jnetlib\connection.cpp">
+      <Filter>Source Files\wdl</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\WDL\jnetlib\httpget.cpp">
+      <Filter>Source Files\wdl</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\WDL\jnetlib\util.cpp">
+      <Filter>Source Files\wdl</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\WDL\jnetlib\asyncdns.h">
+      <Filter>Source Files\wdl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\WDL\jnetlib\connection.h">
+      <Filter>Source Files\wdl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\WDL\jnetlib\jnetlib.h">
+      <Filter>Source Files\wdl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\WDL\jnetlib\util.h">
+      <Filter>Source Files\wdl</Filter>
+    </ClInclude>
+    <ClInclude Include="..\reaper_plugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="res.rc">
+      <Filter>Source Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
