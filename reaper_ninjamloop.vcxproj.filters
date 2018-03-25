@@ -2,18 +2,18 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{bfc2e2b3-6e8e-42fe-a9f2-457bd5d099af}</UniqueIdentifier>
+      <UniqueIdentifier>{3721e7b3-b85d-4cd2-bcfe-18de8bfc1edc}</UniqueIdentifier>
       <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
     </Filter>
     <Filter Include="Source Files\wdl">
-      <UniqueIdentifier>{f43b8b7d-82e5-4961-8a54-301c40bf61a1}</UniqueIdentifier>
+      <UniqueIdentifier>{32a994c5-7127-401b-b957-70f5018eb4a8}</UniqueIdentifier>
     </Filter>
     <Filter Include="Header Files">
-      <UniqueIdentifier>{51a72b95-7a49-4505-afb2-c7585905a819}</UniqueIdentifier>
+      <UniqueIdentifier>{8d45782e-b3e1-46c3-b5e1-9ccade4bc256}</UniqueIdentifier>
       <Extensions>h;hpp;hxx;hm;inl</Extensions>
     </Filter>
     <Filter Include="Resource Files">
-      <UniqueIdentifier>{444caeaa-76f8-473f-b078-5889675c21ff}</UniqueIdentifier>
+      <UniqueIdentifier>{78090601-dbb1-4a87-82e9-9055bb362003}</UniqueIdentifier>
       <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
     </Filter>
   </ItemGroup>

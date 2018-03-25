@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reaper_ninjamloop", "reaper_ninjamloop.vcxproj", "{1315FAA2-0E19-4FC8-8789-4A5030573E4B}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reaper_ninjamloop", "reaper_ninjamloop.vcxproj", "{71BB2967-7F62-4CDB-9532-D1571EF1CF60}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1315FAA2-0E19-4FC8-8789-4A5030573E4B}.Debug|x86.ActiveCfg = Debug|Win32
-		{1315FAA2-0E19-4FC8-8789-4A5030573E4B}.Debug|x86.Build.0 = Debug|Win32
-		{1315FAA2-0E19-4FC8-8789-4A5030573E4B}.Release|x86.ActiveCfg = Release|Win32
-		{1315FAA2-0E19-4FC8-8789-4A5030573E4B}.Release|x86.Build.0 = Release|Win32
+		{71BB2967-7F62-4CDB-9532-D1571EF1CF60}.Debug|x86.ActiveCfg = Debug|Win32
+		{71BB2967-7F62-4CDB-9532-D1571EF1CF60}.Debug|x86.Build.0 = Debug|Win32
+		{71BB2967-7F62-4CDB-9532-D1571EF1CF60}.Release|x86.ActiveCfg = Release|Win32
+		{71BB2967-7F62-4CDB-9532-D1571EF1CF60}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {32D330F1-1A1B-4712-BE25-7F7933B0F2F9}
+		SolutionGuid = {2F07DAAC-EFFC-4834-B2C8-0D000B171495}
 	EndGlobalSection
 EndGlobal
